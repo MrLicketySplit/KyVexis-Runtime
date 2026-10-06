@@ -1,0 +1,16 @@
+{
+  "version": "24.21.0",
+  "release": "runtime-24.21.0",
+  "binaries": {
+    "arm64-v8a": {
+      "file": "node-24.21.0-arm64-v8a.gz",
+      "sha256": "83947ad9748d16cb645415aa43ae2b00768f0d20c98c0b422f76fd2f653dc6de",
+      "bytes": 37549126
+    },
+    "x86_64": {
+      "file": "node-24.21.0-x86_64.gz",
+      "sha256": "1b455d43add18d0f5f24c4603c2aada0c15ce338defc82cb6aa24d55bf173bae",
+      "bytes": 37956400
+    }
+  }
+}
